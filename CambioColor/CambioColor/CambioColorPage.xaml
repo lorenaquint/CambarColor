@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:CambioColor" x:Class="CambioColor.CambioColorPage">
+
+
+    <StackLayout>
+
+                <BoxView x:Name="boxColor"
+                         BackgroundColor="Black"
+                         HeightRequest="200"/>
+                <Label  Margin="25,30,0,0"
+                        Text="Rojo"/>
+                <Slider x:Name="sldRojo"
+                        Margin="15,0,0,0"
+                        ValueChanged="CambiarColor"/>
+                <Label  Margin="25,30,0,0"
+                        Text="Azul"/>
+                <Slider x:Name="sldAzul"
+                        Margin="15,0,0,0"
+                        ValueChanged="CambiarColor"/>
+                <Label  Margin="25,30,0,0"
+                        Text="Verde"/>
+                <Slider x:Name="sldVerde"
+                        Margin="15,0,0,0"
+                        ValueChanged="CambiarColor"/>
+               <Label  Margin="25,30,0,0"
+                        Text="Transparencia"/>
+                <Slider x:Name="sldTrans"
+                        Margin="15,0,0,0"
+                        Value="1"
+                        ValueChanged="CambiarColor"/>
+                <Label   x:Name="lbDisplay"
+                         Text="Valor Hexadecimal"
+                         FontAttributes="Bold"
+                         FontSize="Large"/>
+             <!--<StackLayout Orientation="Horizontal">
+               <Label x:Name="lbRojo" TextColor="Red"/>
+              <Label x:Name="lbVerde" TextColor="Green"/>
+              <Label x:Name="lbAzul" TextColor="Blue"/>
+             </StackLayout>
+             <StackLayout Orientation="Horizontal">
+               <Label x:Name="lbRojoM" TextColor="Red"/>
+              <Label x:Name="lbVerdeM" TextColor="Green"/>
+              <Label x:Name="lbAzulM" TextColor="Blue"/>
+             </StackLayout>-->
+
+
+    </StackLayout>
+
+
+
+    
+</ContentPage>

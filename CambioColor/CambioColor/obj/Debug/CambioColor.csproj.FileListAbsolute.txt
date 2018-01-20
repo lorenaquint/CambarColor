@@ -1,0 +1,17 @@
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/CambioColor/bin/Debug/CambioColor.dll
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/CambioColor/bin/Debug/CambioColor.pdb
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/CambioColor/bin/Debug/Xamarin.Forms.Core.dll
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/CambioColor/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/CambioColor/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/CambioColor/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/CambioColor/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/CambioColor/bin/Debug/Xamarin.Forms.Core.xml
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/CambioColor/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/CambioColor/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/CambioColor/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/CambioColor/obj/Debug/CambioColor.csprojResolveAssemblyReference.cache
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/CambioColor/obj/Debug/CambioColor.csproj.CoreCompileInputs.cache
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/CambioColor/obj/Debug/CambioColor.App.xaml.g.cs
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/CambioColor/obj/Debug/CambioColor.CambioColorPage.xaml.g.cs
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/CambioColor/obj/Debug/CambioColor.dll
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/CambioColor/obj/Debug/CambioColor.pdb

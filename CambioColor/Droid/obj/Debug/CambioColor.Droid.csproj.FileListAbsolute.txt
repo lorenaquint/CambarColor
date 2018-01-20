@@ -1,0 +1,63 @@
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/Droid/bin/Debug/CambioColor.Droid.dll
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/Droid/bin/Debug/CambioColor.Droid.pdb
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/Droid/bin/Debug/com.companyname.CambioColor.apk
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/Droid/bin/Debug/com.companyname.CambioColor-Signed.apk
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/Droid/bin/Debug/CambioColor.dll
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/Droid/bin/Debug/FormsViewGroup.dll
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/Droid/bin/Debug/Xamarin.Android.Support.Animated.Vector.Drawable.dll
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/Droid/bin/Debug/Xamarin.Android.Support.Annotations.dll
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/Droid/bin/Debug/Xamarin.Android.Support.Compat.dll
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/Droid/bin/Debug/Xamarin.Android.Support.Core.UI.dll
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/Droid/bin/Debug/Xamarin.Android.Support.Core.Utils.dll
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/Droid/bin/Debug/Xamarin.Android.Support.Design.dll
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/Droid/bin/Debug/Xamarin.Android.Support.Fragment.dll
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/Droid/bin/Debug/Xamarin.Android.Support.Media.Compat.dll
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/Droid/bin/Debug/Xamarin.Android.Support.Transition.dll
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/Droid/bin/Debug/Xamarin.Android.Support.v4.dll
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/Droid/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/Droid/bin/Debug/Xamarin.Android.Support.v7.CardView.dll
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/Droid/bin/Debug/Xamarin.Android.Support.v7.MediaRouter.dll
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/Droid/bin/Debug/Xamarin.Android.Support.v7.Palette.dll
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/Droid/bin/Debug/Xamarin.Android.Support.v7.RecyclerView.dll
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/Droid/bin/Debug/Xamarin.Android.Support.Vector.Drawable.dll
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/Droid/bin/Debug/Xamarin.Forms.Core.dll
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/Droid/bin/Debug/Xamarin.Forms.Platform.Android.dll
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/Droid/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/Droid/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/Droid/bin/Debug/CambioColor.pdb
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/Droid/bin/Debug/FormsViewGroup.pdb
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/Droid/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/Droid/bin/Debug/Xamarin.Forms.Core.xml
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/Droid/bin/Debug/Xamarin.Forms.Platform.Android.pdb
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/Droid/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/Droid/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/Droid/obj/Debug/CambioColor.Droid.csprojResolveAssemblyReference.cache
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/Droid/obj/Debug/CambioColor.Droid.csproj.CoreCompileInputs.cache
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/Droid/obj/Debug/CambioColor.Droid.dll
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/Droid/obj/Debug/CambioColor.Droid.pdb
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/Droid/obj/Debug/android/bin/com.companyname.CambioColor.apk
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/Droid/obj/Debug/res/layout/tabbar.xml
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/Droid/obj/Debug/res/layout/toolbar.xml
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/Droid/obj/Debug/res/values/styles.xml
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/Droid/obj/Debug/res/drawable/icon.png
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/Droid/obj/Debug/res/drawable-hdpi/icon.png
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/Droid/obj/Debug/res/drawable-xhdpi/icon.png
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/Droid/obj/Debug/res/drawable-xxhdpi/icon.png
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/Droid/obj/Debug/R.cs.flag
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/Droid/obj/Debug/uploadflags.txt
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/packages/Xamarin.Forms.2.5.0.121934/lib/MonoAndroid10/FormsViewGroup.dll
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/packages/Xamarin.Forms.2.5.0.121934/lib/MonoAndroid10/Xamarin.Forms.Core.dll
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/packages/Xamarin.Forms.2.5.0.121934/lib/MonoAndroid10/Xamarin.Forms.Platform.Android.dll
+/Users/lorenaquintero/Google Drive/2018 SENA/Empezando/CambioColor/packages/Xamarin.Forms.2.5.0.121934/lib/MonoAndroid10/Xamarin.Forms.Xaml.dll
+bin/Debug/FormsViewGroup.dll.mdb
+bin/Debug/Xamarin.Forms.Core.dll.mdb
+bin/Debug/Xamarin.Forms.Platform.Android.dll.mdb
+bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+bin/Debug/Mono.Android.pdb
+obj/Debug/linksrc/FormsViewGroup.dll.mdb
+obj/Debug/linksrc/Xamarin.Forms.Core.dll.mdb
+obj/Debug/linksrc/Xamarin.Forms.Platform.Android.dll.mdb
+obj/Debug/linksrc/Xamarin.Forms.Xaml.dll.mdb
+obj/Debug/linksrc/CambioColor.Droid.pdb
+obj/Debug/linksrc/CambioColor.pdb
+obj/Debug/linksrc/Mono.Android.pdb

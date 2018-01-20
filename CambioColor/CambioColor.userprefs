@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{58F0FE0E-D0D2-4D11-B82E-BBC11E131628}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="CambioColor/CambioColorPage.xaml" Line="53" Column="1" />
+      <File FileName="CambioColor/CambioColorPage.xaml.cs" Line="34" Column="48" />
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CambioColor.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F7E01149-66B6-4BEF-895D-FBEF5D14637F">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.CambioColor.iOS>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
